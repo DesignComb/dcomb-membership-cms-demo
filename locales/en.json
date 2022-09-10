@@ -1,0 +1,89 @@
+{
+  "home-title": "Home",
+
+  "home-analyze-chart-unit": "",
+  "home-analyze-chart-1-title": "Members",
+  "home-analyze-chart-2-title": "Estimated Income",
+
+  "home-banner-1-title": "Special Present!",
+  "home-banner-1-description-1": "Sign up new account",
+  "home-banner-1-description-2": "You can get special PRESENT",
+  "home-banner-2-title": "Free trial for lifetime!",
+  "home-banner-2-description-1": "Share this with your friend",
+  "home-banner-2-description-2": "And they also have free lifetime",
+
+  "home-chart-title-1": "Level",
+  "home-chart-title-2": "Gender",
+  "home-chart-title-3": "Age",
+  "home-chart-title-4": "Nationality",
+  "home-chart-circle-number": "Total",
+
+  "home-table-button-1": "New members",
+  "home-table-button-2": "Canceled members",
+  "home-table-button-3": "View more",
+
+  "MemberList-title": "Member List",
+  "MemberList-search": "Search",
+
+  "MemberList-table-1": "Account",
+  "MemberList-table-2": "Email",
+  "MemberList-table-3": "Legal Name",
+  "MemberList-table-4": "Gender",
+  "MemberList-table-5": "Address",
+  "MemberList-table-6": "Phone",
+  "MemberList-table-7": "Birthday",
+  "MemberList-table-8": "Country",
+  "MemberList-table-9": "EC record（Total amount）",
+  "MemberList-table-10": "EC record（Current month）",
+
+  "MemberList-filter-title": "Filter",
+  "MemberList-filter-All": "All",
+
+  "MemberList-filter-button-1": "Clear All",
+  "MemberList-filter-button-2": "Apply",
+  "MemberList-filter-Gender": "Gender",
+  "MemberList-filter-Country": "Country",
+  "MemberList-filter-Birthday": "Birthday",
+  "MemberList-filter-dateFilter-startDate": "Start date",
+  "MemberList-filter-dateFilter-endDate": "End date",
+
+  "MemberList-rightModal-Page-1": "Filter",
+  "MemberList-rightModal-Page-2": "Column display",
+  "MemberList-rightModal-Page-3": "Download CSV",
+
+  "MemberList-download-button": "Click here! ",
+  "MemberList-download-description": "You can download data in this page.",
+
+  "January": "January",
+  "February": "February",
+  "March": "March",
+  "April": "April",
+  "May": "May",
+  "June": "June",
+  "July": "July",
+  "August": "August",
+  "September": "September",
+  "October": "October",
+  "November": "November",
+  "December": "December",
+
+  "1000up": "> $1,000",
+  "10000up": "> $10,000",
+  "100000up": "> $100,000",
+
+  "Others": "Others",
+
+  "China": "China",
+  "Taiwan": "Taiwan",
+  "Thailand": "Thailand",
+
+  "Male": "Male",
+  "Female": "Female",
+  "Agender":"Agender",
+  "Polygender": "Polygender",
+  "Bigender": "Bigender",
+
+  "under-18": "under 18 years old",
+  "18-44": "18~44 years old",
+  "over-44": "over 44 years old"
+}

@@ -1,0 +1,133 @@
+html,
+body {
+    padding: 0;
+    margin: 0;
+    font-weight: 500;
+    font-family: 'Hind', 'Noto Sans SC', sans-serif !important;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-align: center;
+    color: black;
+    z-index: -100;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+    box-sizing: border-box;
+}
+
+@media (max-width: 639px) {
+    html,
+    body {
+        font-size: 15px;
+    }
+}
+
+@media (min-width: 640px) and (max-width: 767px) {
+    html,
+    body {
+        font-size: 15px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 966px) {
+    html,
+    body {
+        font-size: 15px;
+    }
+}
+
+@media (min-width: 967px) and (max-width: 1279px) {
+    html,
+    body {
+        font-size: 15px;
+    }
+}
+
+@media (min-width: 1280px) and (max-width: 1535px) {
+    html,
+    body {
+        font-size: 15px;
+    }
+}
+
+@media (min-width: 1536px) {
+    html,
+    body {
+        font-size: 17px;
+    }
+}
+
+@mixin for-phone {
+    @media (max-width: 639px) {
+        @content;
+    }
+}
+
+@mixin for-laptop {
+    @media (min-width: 640px) and (max-width: 1023px) {
+        @content;
+    }
+}
+
+@mixin for-desktop {
+    @media (min-width: 1024px) and (max-width: 1535px) {
+        @content;
+    }
+}
+
+@mixin for-big-desktop {
+    @media (min-width: 1536px) {
+        @content;
+    }
+}
+
+img,
+svg {
+    vertical-align: middle;
+}
+
+:focus {
+    outline: none;
+}
+
+.drag-cursor:hover{
+  cursor: grab;
+}
+.drag-cursor:active{
+  cursor: grabbing;
+}
+[draggable="true"] {
+  cursor: grabbing;
+}
+::placeholder {
+  background-color: transparent !important;
+}
+/* width */
+
+::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+}
+
+
+/* Track */
+
+::-webkit-scrollbar-track {
+    border-radius: 5px;
+    background: transparent;
+}
+
+
+/* Handle */
+
+::-webkit-scrollbar-thumb {
+    background: #cbd5e0;
+    border-radius: 100vh;
+    border: 2px solid #edf2f7;
+}
+
+
+/* Handle on hover */
+
+::-webkit-scrollbar-thumb:hover {
+    background: #a0aec0;
+}

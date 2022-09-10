@@ -1,0 +1,63 @@
+.dark {
+     ::placeholder {
+        /* Chrome, Firefox, Opera, Safari 10.1+ */
+       background-color: transparent !important;
+        color: #FFFFFF;
+        opacity: 1;
+        /* Firefox */
+    }
+    .el-table__fixed::before {
+        background-color: #353F4B;
+    }
+    .el-table__fixed-right-patch {
+        background-color: #353F4B;
+        border-color: #4D5661;
+    }
+    .custom-table {
+        background-color: #353F4B;
+        border-color: #4D5661;
+    }
+    .el-table__header-wrapper {
+        background-color: #353F4B;
+    }
+    .el-checkbox__inner {
+        background: #353F4B;
+        border-color: #4D5661;
+    }
+    .el-input__inner {
+        background-color: #2E363F;
+        border-color: #737E8A;
+        color: #FFFFFF;
+        &::placeholder {
+          background-color: transparent!important;
+            color: rgba(255, 255, 255, 0.3);
+        }
+    }
+    .member-footer {
+        .btn-prev,
+        .btn-next {
+            background: #353F4B !important;
+            .el-icon {
+                color: #FFFFFF;
+            }
+        }
+        .btn-prev :hover,
+        .btn-next:hover {
+            background: rgb(53, 63, 75, 0.8);
+        }
+        .el-pagination button:disabled {
+            background: rgb(53, 63, 75, 0.8) !important;
+        }
+    }
+    input {
+        background: #2E363F;
+        border-color: #737E8A;
+        color: #FFFFFF;
+        &::placeholder {
+            color: rgba(255, 255, 255, 0.3) !important;
+        }
+    }
+    .el-select__caret {
+        color: #FFFFFF !important;
+    }
+}

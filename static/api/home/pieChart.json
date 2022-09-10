@@ -1,0 +1,58 @@
+{
+  "level": [
+    {
+      "Option": "1000up",
+      "Value": 40
+    },
+    {
+      "Option": "10000up",
+      "Value": 21
+    },
+    {
+      "Option": "100000up",
+      "Value": 2
+    }
+  ],
+  "gender": [
+    {
+      "Option": "Male",
+      "Value": 10
+    },
+    {
+      "Option": "Female",
+      "Value": 44
+    },
+    {
+      "Option": "Others",
+      "Value": 36
+    }
+  ],
+  "age": [
+    {
+      "Option": "under-18",
+      "Value": 10
+    },
+    {
+      "Option": "18-44",
+      "Value": 22
+    },
+    {
+      "Option": "over-44",
+      "Value": 28
+    }
+  ],
+  "country": [
+    {
+      "Option": "Taiwan",
+      "Value": 77
+    },
+    {
+      "Option": "China",
+      "Value": 8
+    },
+    {
+      "Option": "Thailand",
+      "Value": 1
+    }
+  ]
+}

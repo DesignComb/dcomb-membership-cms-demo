@@ -1,0 +1,52 @@
+{
+    "name": "dcomb-membership-cms-demo",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+        "dev": "nuxt",
+        "build": "nuxt build",
+        "start": "nuxt start",
+        "generate": "nuxt generate",
+        "deploy": "push-dir --dir=dist --branch=gh-pages --cleanup",
+        "test": "jest"
+    },
+    "dependencies": {
+        "@nuxtjs/axios": "^5.13.6",
+        "@nuxtjs/i18n": "^7.2.0",
+        "@nuxtjs/style-resources": "^1.0.0",
+        "@nuxtjs/svg-sprite": "^0.5.2",
+        "aos": "^3.0.0-beta.6",
+        "boxicons": "^2.0.9",
+        "chart.js": "^2.9.4",
+        "core-js": "^3.15.1",
+        "element-ui": "^2.15.5",
+        "express-session": "^1.17.3",
+        "hchs-vue-charts": "^1.2.8",
+        "node-sass": "^5.0.0",
+        "nuxt": "^2.15.7",
+        "nuxt-clipboard2": "^0.2.1",
+        "sass": "^1.32.8",
+        "sass-loader": "10.1.1",
+        "swiper": "^4.5.1",
+        "v-click-outside": "^3.1.2",
+        "v-show-slide": "^1.8.3",
+        "vue": "^2.6.14",
+        "vue-awesome-swiper": "^3.1.3",
+        "vue-chartjs": "^3.5.1",
+        "vue-js-popover": "^1.2.1",
+        "vuedraggable": "^2.24.3"
+    },
+    "devDependencies": {
+        "@nuxtjs/dotenv": "^1.4.1",
+        "@nuxtjs/tailwindcss": "^4.2.0",
+        "@vue/test-utils": "^1.2.1",
+        "babel-core": "7.0.0-bridge.0",
+        "babel-jest": "^27.0.5",
+        "babel-plugin-component": "^1.1.1",
+        "jest": "^27.0.5",
+        "postcss": "^8.3.5",
+        "push-dir": "^0.4.1",
+        "vue-jest": "^3.0.4",
+        "vuex": "^3.6.2"
+    }
+}

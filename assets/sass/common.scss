@@ -1,0 +1,91 @@
+@import 'variables';
+@import 'dark';
+.btn-primary {
+    background: #2768BF;
+    border-radius: 5px;
+    color: #FFFFFF;
+    &:hover {
+        background: rgba(39, 104, 191, 0.6);
+    }
+    &:disabled {
+        background: rgba(39, 104, 191, 0.2);
+        cursor: not-allowed;
+    }
+}
+
+.btn-secondary {
+    background: #FFFFFF;
+    border-radius: 5px;
+    border: 1px solid rgba(0, 0, 0, 0.6);
+    color: #06040C;
+    &:hover {
+        background: #FFFFFF;
+        border: 1px solid #000000;
+    }
+    &:disabled {
+        background: rgb(255, 255, 255);
+        border: 1px solid rgb(0, 0, 0, 0.2);
+        opacity: 0.2;
+    }
+}
+
+.btn-secondary-red {
+    background: #FFFFFF;
+    border-radius: 5px;
+    border: 1px solid rgba(0, 0, 0, 0.6);
+    color: #06040C;
+    &:hover {
+        background: #FFFFFF;
+        border: 1px solid #000000;
+    }
+    &:disabled {
+        background: rgb(255, 255, 255);
+        border: 1px solid rgb(0, 0, 0, 0.2);
+        opacity: 0.2;
+    }
+}
+
+.dark {
+    .btn-secondary {
+        background: transparent;
+        border-radius: 5px;
+        border: 1px solid #4F93E3;
+        color: #4F93E3;
+        &:hover {
+            background: rgb(79, 147, 227, 0.15);
+            border: 1px solid #4F93E3;
+        }
+        &:disabled {
+            background: rgb(79, 147, 227, 0.30);
+            border: 1px solid rgba(79, 147, 227, 0.3);
+            opacity: 0.2;
+        }
+    }
+    .btn-secondary-red {
+        background: transparent;
+        border-radius: 5px;
+        border: 1px solid #D45B4A;
+        color: #D45B4A;
+        &:hover {
+            background: rgb(212, 91, 74, 0.15);
+            border: 1px solid #D45B4A;
+        }
+        &:disabled {
+            background: rgb(212, 91, 74, 0.3);
+            border: 1px solid rgb(212, 91, 74, 0.3);
+            opacity: 0.2;
+        }
+    }
+    .btn-primary {
+        background: #4F93E3;
+        border-radius: 5px;
+        color: #FFFFFF;
+        &:hover {
+            background: rgb(79, 147, 227, 0.6);
+        }
+        &:disabled {
+            background: rgb(79, 147, 227, 0.2);
+            cursor: not-allowed;
+        }
+    }
+}

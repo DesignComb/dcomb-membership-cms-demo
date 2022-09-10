@@ -1,0 +1,89 @@
+{
+  "home-title": "首頁",
+
+  "home-analyze-chart-unit": "人",
+  "home-analyze-chart-1-title": "會員總人數",
+  "home-analyze-chart-2-title": "本月預估收益",
+
+  "home-banner-1-title": "大大大優惠！",
+  "home-banner-1-description-1": "新註冊帳號",
+  "home-banner-1-description-2": "即享特別好禮!",
+  "home-banner-2-title": "您獲得了永久的免費試用期！",
+  "home-banner-2-description-1": "分享這個會員管理系統給你的朋友",
+  "home-banner-2-description-2": "讓他們也獲得永久免費!",
+
+  "home-chart-title-1": "消費等級",
+  "home-chart-title-2": "會員性別",
+  "home-chart-title-3": "會員年齡",
+  "home-chart-title-4": "會員地區",
+  "home-chart-circle-number": "人數",
+
+  "home-table-button-1": "近期加入會員",
+  "home-table-button-2": "近期退出會員",
+  "home-table-button-3": "查看更多",
+
+  "MemberList-title": "會員列表",
+  "MemberList-search": "搜尋",
+
+  "MemberList-table-1": "帳號",
+  "MemberList-table-2": "信箱",
+  "MemberList-table-3": "真實姓名",
+  "MemberList-table-4": "性別",
+  "MemberList-table-5": "地址",
+  "MemberList-table-6": "電話",
+  "MemberList-table-7": "生日",
+  "MemberList-table-8": "國家",
+  "MemberList-table-9": "電商消費紀錄（累積金額）",
+  "MemberList-table-10": "電商消費紀錄（本月金額）",
+
+  "MemberList-filter-title": "篩選",
+  "MemberList-filter-All": "所有",
+
+  "MemberList-filter-button-1": "清除",
+  "MemberList-filter-button-2": "套用",
+  "MemberList-filter-Gender": "性別",
+  "MemberList-filter-Country": "國家",
+  "MemberList-filter-Birthday": "出生日期",
+  "MemberList-filter-dateFilter-startDate": "起始時間區間",
+  "MemberList-filter-dateFilter-endDate": "結束時間區間",
+
+  "MemberList-rightModal-Page-1": "篩選",
+  "MemberList-rightModal-Page-2": "編輯欄位",
+  "MemberList-rightModal-Page-3": "資料下載",
+
+  "MemberList-download-button": "點此",
+  "MemberList-download-description": "下載該分頁的所有會員資料",
+
+  "January": "一月",
+  "February": "二月",
+  "March": "三月",
+  "April": "四月",
+  "May": "五月",
+  "June": "六月",
+  "July": "七月",
+  "August": "八月",
+  "September": "九月",
+  "October": "十月",
+  "November": "十一月",
+  "December": "十二月",
+
+  "1000up": "> $1,000",
+  "10000up": "> $10,000",
+  "100000up": "> $100,000",
+
+  "Others": "其他",
+
+  "China": "中國",
+  "Taiwan": "台灣",
+  "Thailand": "泰國",
+
+  "Male": "男",
+  "Female": "女",
+  "Agender":"無性別",
+  "Polygender": "多性別",
+  "Bigender": "雙性別",
+
+  "under-18": "18 歲以下",
+  "18-44": "18~44 歲",
+  "over-44": "44 歲以上"
+}

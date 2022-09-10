@@ -1,0 +1,27 @@
+.text-caption {
+    @include for-laptop {
+        transform-origin: 0 0;
+        transform: scale(0.888);
+    }
+    @include for-phone {
+        transform-origin: 0 0;
+        transform: scale(0.888);
+    }
+}
+
+.text-overline {
+    transform-origin: 0 0;
+    transform: scale(0.833);
+    @include for-laptop {
+        transform-origin: 0 0;
+        transform: scale(0.735);
+    }
+    @include for-phone {
+        transform-origin: 0 0;
+        transform: scale(0.735);
+    }
+    @include for-desktop {
+        transform-origin: 0 0;
+        transform: scale(0.931);
+    }
+}
