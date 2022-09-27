@@ -1,0 +1,123 @@
+{
+  "new": [
+    {
+      "ID": "ID0000001",
+      "Avatar": "https://robohash.org/omniseiusdeserunt.png?size=50x50&set=set1",
+      "NickName": "vgossage0",
+      "Email": "vgossage0@list-manage.com",
+      "FirstName": "Vic",
+      "LastName": "Gossage",
+      "Gender": "Male",
+      "Address": "621 Autumn Leaf Place",
+      "Phone": "+86 700 808 7611",
+      "BirthDay": "1993-06-10",
+      "Country": "China",
+      "EcommerceAmount": "$54799.94",
+      "EcommerceAmountOfThisMonth": "$3291.09"
+    }, {
+      "ID": "ID0000002",
+      "Avatar": "https://robohash.org/omnisidest.png?size=50x50&set=set1",
+      "NickName": "bvanderhoog1",
+      "Email": "bvanderhoog1@cornell.edu",
+      "FirstName": "Brant",
+      "LastName": "Van Der Hoog",
+      "Gender": "Male",
+      "Address": "76 Sutteridge Road",
+      "Phone": "+86 761 794 0525",
+      "BirthDay": "1977-01-03",
+      "Country": "China",
+      "EcommerceAmount": "$97045.54",
+      "EcommerceAmountOfThisMonth": "$26672.13"
+    }, {
+      "ID": "ID0000003",
+      "Avatar": "https://robohash.org/quisaliquideius.png?size=50x50&set=set1",
+      "NickName": "mreynoollds2",
+      "Email": "mreynoollds2@auda.org.au",
+      "FirstName": "Maire",
+      "LastName": "Reynoollds",
+      "Gender": "Female",
+      "Address": "8304 Pine View Point",
+      "Phone": "+86 108 229 0867",
+      "BirthDay": "2018-07-15",
+      "Country": "China",
+      "EcommerceAmount": "$25502.15",
+      "EcommerceAmountOfThisMonth": "$4835.95"
+    }, {
+      "ID": "ID0000004",
+      "Avatar": "https://robohash.org/commodirerumet.png?size=50x50&set=set1",
+      "NickName": "bhaine3",
+      "Email": "bhaine3@nba.com",
+      "FirstName": "Burr",
+      "LastName": "Haine",
+      "Gender": "Male",
+      "Address": "3 Westport Place",
+      "Phone": "+86 735 182 5825",
+      "BirthDay": "1970-12-16",
+      "Country": "China",
+      "EcommerceAmount": "$37901.16",
+      "EcommerceAmountOfThisMonth": "$24391.13"
+    }
+  ],
+  "left": [
+    {
+      "ID": "ID0000005",
+      "Avatar": "https://robohash.org/modiminusdolore.png?size=50x50&set=set1",
+      "NickName": "jstorre4",
+      "Email": "jstorre4@msu.edu",
+      "FirstName": "Jasen",
+      "LastName": "Storre",
+      "Gender": "Male",
+      "Address": "055 Ridgeway Pass",
+      "Phone": "+86 378 886 2695",
+      "BirthDay": "2003-05-28",
+      "Country": "China",
+      "EcommerceAmount": "$38886.65",
+      "EcommerceAmountOfThisMonth": "$28844.85"
+    },
+    {
+      "ID": "ID0000006",
+      "Avatar": "https://robohash.org/adquianatus.png?size=50x50&set=set1",
+      "NickName": "cchamperlen5",
+      "Email": "cchamperlen5@dell.com",
+      "FirstName": "Cos",
+      "LastName": "Champerlen",
+      "Gender": "Male",
+      "Address": "388 Golf Course Crossing",
+      "Phone": "+86 781 349 1049",
+      "BirthDay": "1990-05-03",
+      "Country": "China",
+      "EcommerceAmount": "$14915.63",
+      "EcommerceAmountOfThisMonth": "$15440.18"
+    },
+    {
+      "ID": "ID0000007",
+      "Avatar": "https://robohash.org/noncorruptiquam.png?size=50x50&set=set1",
+      "NickName": "lclues6",
+      "Email": "lclues6@cyberchimps.com",
+      "FirstName": "Lorry",
+      "LastName": "Clues",
+      "Gender": "Male",
+      "Address": "800 Westerfield Junction",
+      "Phone": "+86 485 857 5349",
+      "BirthDay": "1988-06-25",
+      "Country": "China",
+      "EcommerceAmount": "$33728.22",
+      "EcommerceAmountOfThisMonth": "$14515.16"
+    },
+    {
+      "ID": "ID0000008",
+      "Avatar": "https://robohash.org/utasperioresmaiores.png?size=50x50&set=set1",
+      "NickName": "narens7",
+      "Email": "narens7@163.com",
+      "FirstName": "Nial",
+      "LastName": "Arens",
+      "Gender": "Male",
+      "Address": "5817 Evergreen Center",
+      "Phone": "+86 278 324 1795",
+      "BirthDay": "1996-08-01",
+      "Country": "China",
+      "EcommerceAmount": "$54544.40",
+      "EcommerceAmountOfThisMonth": "$7620.43"
+    }
+  ]
+}
